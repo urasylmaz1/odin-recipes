@@ -1,2 +1,3 @@
 # odin-recipes
-In this project I will put all my prior knowledge gathered from The Odin Project to the test.
+This is a HTML pratice 
+In this practice I will put all my prior knowledge gathered from The Odin Project to the test and create a Recipe website.
